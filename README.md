@@ -1,4 +1,4 @@
 project2
 ========
 
-For class
+For class now modified
